@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bb4c497-f0da-497f-b2b2-91be91bf2a37" name="Changes" comment="">
+    <list default="true" id="6bb4c497-f0da-497f-b2b2-91be91bf2a37" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +101,9 @@
       <updated>1637488970942</updated>
       <workItem from="1637488972419" duration="1857000" />
       <workItem from="1637492674826" duration="3027000" />
-      <workItem from="1637496021102" duration="2302000" />
+      <workItem from="1637496021102" duration="2583000" />
+      <workItem from="1637498683442" duration="1491000" />
+      <workItem from="1637512209234" duration="1285000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1637494221005</created>
@@ -122,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637496199478</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1637498361121</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637498361121</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +152,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
